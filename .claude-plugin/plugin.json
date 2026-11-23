@@ -1,0 +1,21 @@
+{
+  "name": "claude-code-film-crew-lumen",
+  "displayName": "Lumen: AI director of photography agent for Claude Code",
+  "version": "0.1.0",
+  "description": "Lumen, a senior director of photography agent for Claude Code: turns a script into a shot list and shot intent (composition, lens, camera move, light) for AI-generated images and video, in wording the models actually obey.",
+  "author": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "homepage": "https://wizalnut.com/en/packs",
+  "repository": "https://github.com/PlatonKuruc/claude-code-film-crew-lumen",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "claude-code",
+    "claude-code-agents",
+    "ai-agents",
+    "ai-video",
+    "shot-list",
+    "cinematography"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-film-crew-lumen",
+  "description": "Lumen: AI director of photography agent for Claude Code",
+  "owner": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-film-crew-lumen",
+      "source": "./",
+      "description": "Lumen, a senior director of photography agent for Claude Code: turns a script into a shot list and shot intent (composition, lens, camera move, light) for AI-generated images and video, in wording the models actually obey."
+    }
+  ]
+}
